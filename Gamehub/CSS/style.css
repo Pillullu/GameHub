@@ -133,3 +133,16 @@ button:focus-visible {
         padding: 24px 16px;
     }
 }
+.rodape {
+    background-color: #1a1a2e;
+    color: #bdbdbd;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    border-top: 1px solid #3a3a55;
+    font-size: 14px;
+}
+
+.rodape p {
+    margin: 5px 0;
+}

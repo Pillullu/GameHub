@@ -1,4 +1,3 @@
-
 const jogos = [
     {
         nome: "Minecraft",
